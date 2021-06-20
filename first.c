@@ -3,7 +3,7 @@
 int main()
 {
 
-printf("My first git !");
-
+printf("My first git !\n");
+printf("second version of git");
 return 0;
  }
